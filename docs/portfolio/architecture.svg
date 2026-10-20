@@ -24,9 +24,8 @@
 <polyline points="1415,465 1415,520" fill="none" stroke="#4964ce" stroke-width="3"/>
 <polygon points="1415,520 1409.7804135906651,509.1946347717679 1420.2195864093349,509.1946347717679" fill="#4964ce"/>
 <rect x="35" y="190" width="215" height="95" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
-<text x="142.5" y="216.0" font-size="22" fill="#172842" font-weight="700" text-anchor="middle">주문 메일</text>
-<text x="142.5" y="248.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">본문 · 이미지 · PD</text>
-<text x="142.5" y="274.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">F</text>
+<text x="142.5" y="232.5" font-size="28" fill="#172842" font-weight="700" text-anchor="middle">주문 메일</text>
+<text x="142.5" y="264.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">본문 · 첨부파일</text>
 <rect x="320" y="190" width="245" height="105" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
 <text x="442.5" y="224.5" font-size="28" fill="#172842" font-weight="700" text-anchor="middle">LLM 구조화 추출</text>
 <text x="442.5" y="256.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">스키마 · 근거 표시</text>
@@ -45,8 +44,8 @@
 <text x="442.5" y="504.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">API 오류 시 검토 대기</text>
 <rect x="940" y="430" width="245" height="95" rx="14" fill="#fff7ec" stroke="#e2c69b" stroke-width="2"/>
 <text x="1062.5" y="456.0" font-size="22" fill="#a36316" font-weight="700" text-anchor="middle">담당자 검토·보완</text>
-<text x="1062.5" y="488.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">누락 / 단가 / 이력 문</text>
-<text x="1062.5" y="514.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">제</text>
+<text x="1062.5" y="488.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">누락 · 단가 · 이력</text>
+<text x="1062.5" y="514.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">보완 필요</text>
 <rect x="1280" y="385" width="270" height="80" rx="14" fill="#eef8f5" stroke="#afd7cf" stroke-width="2"/>
 <text x="1415.0" y="420.0" font-size="28" fill="#137d78" font-weight="700" text-anchor="middle">담당자 승인</text>
 <text x="1415.0" y="452.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">승인 전 발송 금지</text>
