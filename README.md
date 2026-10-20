@@ -9,6 +9,8 @@
 
 ![코드를 기준으로 정리한 처리 흐름](docs/portfolio/architecture.png)
 
+[구성도 SVG 원본](docs/portfolio/architecture.svg)
+
 ## 본인 기여
 
 초기 MVP를 단독 구현했습니다. 이후 팀 시스템에 전체 업무 상담 Agent를 추가하고 대화 맥락과 견적 변경 흐름을 보완했습니다. 사내 PC 기반 LAN 접속, NAS 연결과 사용 안내도 맡았습니다.
